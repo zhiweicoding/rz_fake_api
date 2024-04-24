@@ -1,0 +1,5 @@
+### get image
+POST http://localhost:8000/receice_data/getPicPath
+Content-Type: application/x-www-form-urlencoded
+
+id = ±800kV雁淮直流_#344__绝缘子_左相小号侧外侧绝缘子串_09009c419613c8903f35491683c83d5f0becda58.jpg
