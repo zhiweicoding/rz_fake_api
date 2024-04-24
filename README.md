@@ -4,7 +4,7 @@
 ## 打包
 
 ```shell
-docker build -t rz_fake_api:develop .
+docker build -t loveqianqian/rz_fake_api:develop .
 ```
 
 ```shell
